@@ -1,4 +1,5 @@
 {
+  "_base": "https://raw.githubusercontent.com/ralgunnard-cell/perkons-samples/main/",
   "pk_kick": [
     "kick/Perk_Kick_001_Oora.wav",
     "kick/Perk_Kick_002_Oora.wav",
